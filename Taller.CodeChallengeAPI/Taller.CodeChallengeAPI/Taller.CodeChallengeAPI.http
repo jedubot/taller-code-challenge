@@ -1,0 +1,6 @@
+@Taller.CodeChallengeAPI_HostAddress = http://localhost:5083
+
+GET {{Taller.CodeChallengeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
